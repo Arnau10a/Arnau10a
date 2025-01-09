@@ -14,24 +14,7 @@ Currently pursuing my degree in Computer Engineering at the Polytechnic Universi
 ![Prolog](https://img.shields.io/badge/-Prolog-333333?style=flat&logo=prolog)
 ![Haskell](https://img.shields.io/badge/-Haskell-333333?style=flat&logo=haskell)
 
-### 🛠️ Areas of Expertise
-- **Programming & Development**
-  - Machine Learning Algorithms
-  - Natural Language Processing
-  - Database Management
-  
-- **Creative Tools**
-  - Blender
-  - Adobe Photoshop
-  - Game Development
-
 ## 📫 Connect with Me
 - 📧 Email: parise.garcia@gmail.com
 - 💼 [LinkedIn](Your-LinkedIn-URL)
 ---
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnau10a&show_icons=true&theme=dracula)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnau10a&layout=compact&theme=dracula)
