@@ -1,12 +1,18 @@
+> ⚠️ **Note:** I'm currently in the process of uploading and organizing my repositories to GitHub.
 
-# ![Sin título-1](https://github.com/user-attachments/assets/b522f379-d3bb-4597-ad29-dfaeba738f4f)
-👋 Hi, I'm Arnau Garcia
-
-## 🎓 Computer Engineering Student & Sailing Instructor
+![Sin título-1 (3)](https://github.com/user-attachments/assets/8efe1814-6b4f-493c-ae6b-c757210971ac)
+## 🎓 Computer Engineering Student
 Currently pursuing my degree in Computer Engineering at the Polytechnic University of Catalonia (UPC), with international experience through the Erasmus program at Czech Technical University in Prague. Passionate about game development, 3D design, and artificial intelligence.
 
-## 💻 Technical Skills
-`````` Python | C++ | Java | MySQL | Git ```````
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+![Prolog](https://img.shields.io/badge/-Prolog-333333?style=flat&logo=prolog)
+![Haskell](https://img.shields.io/badge/-Haskell-333333?style=flat&logo=haskell)
 
 ### 🛠️ Areas of Expertise
 - **Programming & Development**
@@ -15,42 +21,13 @@ Currently pursuing my degree in Computer Engineering at the Polytechnic Universi
   - Database Management
   
 - **Creative Tools**
-  - Blender (3D Modeling)
+  - Blender
   - Adobe Photoshop
   - Game Development
 
-## 🌊 Professional Experience
-- **Sailing Instructor** at various prestigious institutions:
-  - Real Club Marítimo de Barcelona
-  - Centro Municipal de Vela, Barcelona
-  - Windsurf Pals, Gerona
-
-## 🌍 Languages
-- Spanish (Native)
-- Catalan (Native)
-- English (IELTS "C")
-- French
-
-## 🎯 Interests
-- 🎮 Video Game Development
-- 🎨 3D Modeling
-- 🤖 Artificial Intelligence
-- ⛵ Sailing
-- 🏃‍♂️ Running
-- ✈️ Traveling
-
-## 🌟 Key Qualities
-- Team Collaboration
-- Adaptability
-- Creativity
-- Time Management
-
 ## 📫 Connect with Me
 - 📧 Email: parise.garcia@gmail.com
-- 📱 Phone: +34 682 564 134
 - 💼 [LinkedIn](Your-LinkedIn-URL)
-- 🐱‍💻 [GitHub](https://github.com/Arnau10a)
-
 ---
 
 ### 📊 GitHub Stats
