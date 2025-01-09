@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Arnau Garcia Parise
+
+# ![Sin título-1](https://github.com/user-attachments/assets/b522f379-d3bb-4597-ad29-dfaeba738f4f)
+👋 Hi, I'm Arnau Garcia
 
 ## 🎓 Computer Engineering Student & Sailing Instructor
 Currently pursuing my degree in Computer Engineering at the Polytechnic University of Catalonia (UPC), with international experience through the Erasmus program at Czech Technical University in Prague. Passionate about game development, 3D design, and artificial intelligence.
